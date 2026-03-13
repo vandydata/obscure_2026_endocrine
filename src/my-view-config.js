@@ -1,15 +1,15 @@
 export const myViewConfig = {
   "version": "1.0.4",
-  "name": "20260130_endocrine_res0.3.20260204.zarr",
+  "name": "20260219_endocrine_res0.3.20260313.zarr",
   "description": "",
   "datasets": [
     {
       "uid": "A",
-      "name": "20260130_endocrine_res0.3.20260204.zarr",
+      "name": "20260219_endocrine_res0.3.20260313.zarr",
       "files": [
         {
           "fileType": "anndata.zarr",
-          "url": "https://cds-pancreatlas-public.s3.amazonaws.com/20260130_endocrine_res0.3.20260204.zarr",
+          "url": "https://cds-pancreatlas-public.s3.amazonaws.com/20260219_endocrine_res0.3.20260313.zarr",
           "options": {
             "obsEmbedding": [
               {
